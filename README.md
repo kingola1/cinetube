@@ -1,9 +1,9 @@
 # CineTube
 
-# How to run it
+### `How to run it`
 
 "npm i"
-it install all dependencies needed
+to install all dependencies needed
 
 In the project directory, you can run:
 ### `npm start`
